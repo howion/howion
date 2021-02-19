@@ -1,8 +1,8 @@
 ### Hi there 👋. I'm Mert, an applied mathematics enthusiast.
 
 - 🔭 I’m currently working on an alternative to LaTeX.
-- 🌱 I’m currently learning **Mathemagic**.
-- 📫 How to reach me: mert.coskun@metu.edu.tr
+- 📫 Reach me via: mert.coskun@metu.edu.tr
+<!-- - 🌱 I’m currently learning **Mathemagic**. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
