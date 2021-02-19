@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on an alternative to LaTeX.
 - 🌱 I’m currently learning **Mathemagic**.
+- 📫 How to reach me: mert.coskun@metu.edu.tr
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: mert.coskun@metu.edu.tr
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
