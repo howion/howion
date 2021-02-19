@@ -7,7 +7,7 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: mert.coskun@metu.edu.tr
 <!-- - 😄 Pronouns: ... -->
-<-- - ⚡ Fun fact: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 <!--
 **howion/howion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
