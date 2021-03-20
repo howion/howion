@@ -1,6 +1,9 @@
 ### Hi there 👋. I'm Mert, an applied mathematics enthusiast.
 
-- I'm currently working on an alternative to [LaTeX](https://www.latex-project.org/).
+- I'm currently working on:
+  - an alternative to [LaTeX](https://www.latex-project.org/),
+  - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (and trying to hold my tears),
+  - and some other stuff.
 - Reach me via `mert.coskun@metu.edu.tr`
 <!-- - 🌱 I’m currently learning **Mathemagic**. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
