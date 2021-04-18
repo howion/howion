@@ -2,6 +2,7 @@
 
 - I'm currently working on:
   - an alternative to [LaTeX](https://www.latex-project.org/),
+  - a modern, online Principia Mathematica,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (and trying to hold my tears),
   - and some other stuff.
 - Reach me via `mert.coskun@metu.edu.tr`
