@@ -1,20 +1,9 @@
-### Hi there 👋. I'm Mert, an applied mathematics enthusiast.
+### Hi, I'm Mert, an applied mathematician to be.
 
 - I'm currently working on:
   - an alternative to [LaTeX](https://www.latex-project.org/),
   - a modern, online [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica),
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (and trying to hold my tears),
+  - things related to cryptography (which is a lot),
   - and some other stuff.
-- Reach me via `mert.coskun@metu.edu.tr`
-<!-- - 🌱 I’m currently learning **Mathemagic**. -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
-
-<!--
-**howion/howion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+- Reach me via `mert.coskun@metu.edu.tr`, and please do if you are interested.
