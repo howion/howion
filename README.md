@@ -6,4 +6,4 @@
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (and trying to hold my tears),
   - things related to cryptography,
   - and some other stuff.
-- Reach me via `mert.coskun@metu.edu.tr`, and please do if you are interested.
+- You can reach me via `mert.coskun@metu.edu.tr`, and please do so if you are interested.
