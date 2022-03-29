@@ -9,6 +9,7 @@
 
 - I want to write/work on:
   - Any [Quantum Information Theory](https://en.wikipedia.org/wiki/Quantum_information) related project,
-  - An Arch-based operating system.
+  - An Arch-based operating system,
+  - Custom Chromium browser.
 
 - You can reach me via `mert.coskun@metu.edu.tr`, and please do so if you are interested.
