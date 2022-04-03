@@ -13,3 +13,5 @@
   - Custom Chromium browser.
 
 - You can reach me via `mert.coskun@metu.edu.tr`, and please do so if you are interested.
+
+[![Spotify](https://howion-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe)
