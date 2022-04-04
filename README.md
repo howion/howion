@@ -6,6 +6,7 @@
   - an alternative to [LaTeX](https://www.latex-project.org/) (no its not a bad idea),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (and trying to hold my tears),
+  - non-Euclidean engine with OpenGL,
   - things related to cryptography,
   - and some other stuff.
 
