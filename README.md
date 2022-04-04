@@ -1,5 +1,9 @@
 # Hi, I'm Mert.
 
+![Years](https://badges.pufler.dev/years/howion)
+![Repos](https://badges.pufler.dev/repos/howion)
+![Twitter Follow](https://img.shields.io/twitter/follow/howionwastaken?style=social)
+
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg) -->
 
 - I'm currently working on:
