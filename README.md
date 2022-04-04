@@ -1,4 +1,6 @@
-### Hi, I'm Mert, an applied mathematician to be.
+<!-- ### Hi, I'm Mert -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 - I'm currently working on:
   - an alternative to [LaTeX](https://www.latex-project.org/) (no its not a bad idea),
