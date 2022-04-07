@@ -1,4 +1,4 @@
-# Hi, I'm Mert.
+# Hi. I'm Mert — howion.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" />
 
@@ -29,4 +29,7 @@
 
 ## Me at the Moment
 
-[![Spotify](https://howion-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe)
+<!-- [![Spotify](https://howion-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe) -->
+
+[<img width="402px" align="left" src="https://howion-novatorem.vercel.app/api/spotify" />
+](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe)
