@@ -8,7 +8,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg) -->
 
-- I'm currently working on:
+- **I'm currently working on:**
   - an alternative to [LaTeX](https://www.latex-project.org/) (no its not a bad idea),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (and trying to hold my tears),
@@ -16,7 +16,7 @@
   - things related to cryptography,
   - and some other stuff.
 
-- I want to write/work on:
+- **I want to write/work on:**
   - Any [Quantum Information Theory](https://en.wikipedia.org/wiki/Quantum_information) related project,
   - An Arch-based operating system,
   - Custom Chromium browser.
