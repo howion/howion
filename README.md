@@ -1,5 +1,7 @@
 # Hi, I'm Mert.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" />
+
 <!-- ![Years](https://badges.pufler.dev/years/howion)
 ![Repos](https://badges.pufler.dev/repos/howion)
 ![Twitter Follow](https://img.shields.io/twitter/follow/howionwastaken?style=social) -->
@@ -27,5 +29,4 @@
 
 ## Me at the Moment
 
-<img align="left" src="https://howion-novatorem.vercel.app/api/spotify" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" />
+[![Spotify](https://howion-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe)
