@@ -27,4 +27,5 @@
 
 ## Me at the Moment
 
-[![Spotify](https://howion-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe)
+<img align="left" src="https://howion-novatorem.vercel.app/api/spotify" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" />
