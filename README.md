@@ -1,4 +1,4 @@
-# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion. <img align="right" src="https://raw.githubusercontent.com/howion/howion/master/assets/satanic-ram-horn.png" width="200px" />
+# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion. <img align="right" src="https://raw.githubusercontent.com/howion/howion/master/assets/satanic-ram-horn.png" width="160px" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=howion)
 [![Mail](https://img.shields.io/badge/-mert.coskun@metu.edu.tr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mert.coskun@metu.edu.tr "Connect via Email")
