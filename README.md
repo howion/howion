@@ -1,5 +1,24 @@
 # Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion.
 
+![](https://komarev.com/ghpvc/?username=howion)
+[![Mail](https://img.shields.io/badge/-mert.coskun@metu.edu.tr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mert.coskun@metu.edu.tr "Connect via Email")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omer--mert--coskun-0072ae?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-mert-coskun/ "Connect on LinkedIn")
+[![Twitter](https://img.shields.io/badge/-@howionwastaken-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=howionwastaken "Follow on Twitter")
+[![Spotify](https://img.shields.io/badge/-MERT&nbsp;&#8212;&nbsp;howion-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe "Follow me on Spotify")
+[![Reddit](https://img.shields.io/badge/-u/howionwastaken-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/howionwastaken/ "Find me on Reddit")
+[![StackOverflow](https://img.shields.io/badge/-howion-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/11771918/howion?tab=profile)
+[![Instagram](https://img.shields.io/badge/-omermertcoskun-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/omermertcoskun/ "Follow me on Instagram")
+[![Telegram](https://img.shields.io/badge/-@howion-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/howion "Contact me on Telegram")
+[![Keybase](https://img.shields.io/badge/-howion-f86c21?style=flat&logo=keybase&logoColor=white)](https://keybase.io/howion "My Keybase")
+[![Keybase PGP](https://img.shields.io/badge/Keybase&nbsp;PGP%20-F6735A378EF369F6-critical?style=flat&logo=keybase&logoColor=white)](https://keybase.io/howion)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux%2FTails-informational?style=flat&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8324--2325-blue?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-1JZWiom8N4iohFMnF6xj7ASXWQoo7fUwzm-important?style=flat&logoColor=white)
+![Tether](https://img.shields.io/badge/Tether%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-259b78?style=flat&logoColor=white)
+![Monero](https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logoColor=white)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" />
 
 <!-- ![Years](https://badges.pufler.dev/years/howion)
