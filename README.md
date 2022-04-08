@@ -10,12 +10,12 @@
 [![Instagram](https://img.shields.io/badge/-omermertcoskun-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/omermertcoskun/ "Follow me on Instagram")
 [![Telegram](https://img.shields.io/badge/-@howion-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/howion "Contact me on Telegram")
 [![Keybase PGP](https://img.shields.io/badge/Keybase&nbsp;PGP%20-F6735A378EF369F6-critical?style=flat&logo=keybase&logoColor=white)](https://keybase.io/howion)
-![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Linux%2FTails-informational?style=flat&logo=linux&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Linux%2FTails-informational?style=flat&logoColor=white)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8324--2325-blue?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8324-2325)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-1JZWiom8N4iohFMnF6xj7ASXWQoo7fUwzm-important?style=flat&logoColor=white)
-![Tether](https://img.shields.io/badge/Tether%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-259b78?style=flat&logoColor=white)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8324--2325-blue?style=flat&logoColor=white)](https://orcid.org/0000-0002-8324-2325)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-1JZWiom8N4iohFMnF6xj7ASXWQoo7fUwzm-important?style=flat&logo=bitcoin&logoColor=white)
+![Tether](https://img.shields.io/badge/Tether%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-259b78?style=flat&logo=tether&logoColor=white)
 <!-- ![Monero](https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logoColor=white) -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" />
