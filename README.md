@@ -1,4 +1,4 @@
-# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion. <img align="right" src="https://raw.githubusercontent.com/howion/howion/master/assets/satanic-ram-horn.png" width="160px" />
+# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion. <img align="right" src="https://raw.githubusercontent.com/howion/howion/master/assets/satanic-ram-horn.png" width="200px" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=howion)
 [![Mail](https://img.shields.io/badge/-mert.coskun@metu.edu.tr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mert.coskun@metu.edu.tr "Connect via Email")
@@ -15,7 +15,7 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8324--2325-blue?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8324-2325)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-1JZWiom8N4iohFMnF6xj7ASXWQoo7fUwzm-important?style=flat&logoColor=white)
-![Monero](https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logoColor=white)
+<!-- ![Monero](https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logoColor=white) -->
 ![Tether](https://img.shields.io/badge/Tether%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-259b78?style=flat&logoColor=white)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" />
