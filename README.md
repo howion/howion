@@ -125,7 +125,7 @@ pDcki0whmZ8TfiGzmXUzAK3InJREaC9JnWqEb7+X+lU8kj2z4cLgMfmLRufM
 ```
 </details>
 
-<details align="center" open>
+<details align="center">
   <summary><b>Technologies Used</b></summary>
   <br/>
 
