@@ -45,18 +45,27 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,cloudflare,codepen,css,dotnet,express,figma,git,html,ai,js,jquery,latex,md,mysql,nodejs,php,prisma,py,react,sass,svg,ts,visualstudio,vscodem)](https://skillicons.dev) -->
 
-## My!
-
-
+<br/>
 <div align="center">
   <a href="https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe">
     <img width="440px" src="https://howion-novatorem.vercel.app/api/spotify" />
   </a>
 </div>
-
+<br/>
 
 <details align="center">
-  <summary><b>Pretty Good Privacy Key &mdash; RSA 4096</b></summary>
+  <summary><b>Me on Blockchain</b></summary>
+  <br/>
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-1JZWiom8N4iohFMnF6xj7ASXWQoo7fUwzm-important?style=flat&logo=bitcoin&logoColor=white)
+![Tether](https://img.shields.io/badge/Tether%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-259b78?style=flat&logo=tether&logoColor=white)
+![Monero](https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logo=monero&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-60658b?style=flat&logo=ethereum&logoColor=white)
+
+</details>
+
+<details align="center">
+  <summary><b>PgP Key</b></summary>
   <br/>
 
 ```
@@ -114,17 +123,6 @@ pDcki0whmZ8TfiGzmXUzAK3InJREaC9JnWqEb7+X+lU8kj2z4cLgMfmLRufM
 =V0pz
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-</details>
-
-<details align="center">
-  <summary><b>Blockchain</b></summary>
-  <br/>
-
-![Bitcoin](https://img.shields.io/badge/Bitcoin-1JZWiom8N4iohFMnF6xj7ASXWQoo7fUwzm-important?style=flat&logo=bitcoin&logoColor=white)
-![Tether](https://img.shields.io/badge/Tether%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-259b78?style=flat&logo=tether&logoColor=white)
-![Monero](https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logo=monero&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-60658b?style=flat&logo=ethereum&logoColor=white)
-
 </details>
 
 <details align="center" open>
