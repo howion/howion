@@ -48,11 +48,11 @@
 
 ## Me!
 
-[<img width="420px" align="left" src="https://howion-novatorem.vercel.app/api/spotify" />
+[<img width="402px" align="left" src="https://howion-novatorem.vercel.app/api/spotify" />
 ](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe)
 
 <details>
-  <summary><b>:key: PGP PUBLIC KEY — RSA 4096</b></summary>
+  <summary><b>:lock: PGP Public Key — RSA 4096</b></summary>
   <br/>
 
 ```
@@ -114,7 +114,7 @@ pDcki0whmZ8TfiGzmXUzAK3InJREaC9JnWqEb7+X+lU8kj2z4cLgMfmLRufM
 
   
 <details>
-  <summary><b>:hammer: Technologies Used</b></summary>
+  <summary><b>:dvd: Technologies Used</b></summary>
   <br/>
   
   [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=ffffff&style=flat)](https://github.com/dotnet/brand/)
