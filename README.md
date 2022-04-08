@@ -30,14 +30,14 @@
   - an alternative to [LaTeX](https://www.latex-project.org/) (no its not a bad idea),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (and trying to hold my tears),
-  - non-Euclidean engine with OpenGL,
+  - [non-Euclidean](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) engine with [OpenGL](https://www.opengl.org/),
   - things related to cryptography,
   - and some other stuff.
 
 - **I want to write/work on:**
   - Any [Quantum Information Theory](https://en.wikipedia.org/wiki/Quantum_information) related project,
-  - An Arch-based operating system,
-  - Custom Chromium browser.
+  - An [Arch-based](https://wiki.archlinux.org/title/Arch-based_distributions) operating system,
+  - Custom [Chromium](https://github.com/chromium/chromium) browser.
 
 - You can reach me via `mert.coskun@metu.edu.tr`, and please do so if you are interested.
 
