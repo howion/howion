@@ -47,7 +47,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe">
+  <a href="https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe" target="_blank">
     <img width="440px" src="https://howion-novatorem.vercel.app/api/spotify" />
   </a>
 </div>
