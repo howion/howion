@@ -1,8 +1,8 @@
-# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion.
+# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion. <img align="right" src="https://raw.githubusercontent.com/howion/howion/master/assets/satanic-ram-horn.png" width="160px" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=howion)
 [![Mail](https://img.shields.io/badge/-mert.coskun@metu.edu.tr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mert.coskun@metu.edu.tr "Connect via Email")
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omer--mert--coskun-0072ae?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-mert-coskun/ "Connect on LinkedIn")
+[![LinkedIn](https://img.shields.io/badge/-omer--mert--coskun-0072ae?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-mert-coskun/ "Connect on LinkedIn")
 [![Twitter](https://img.shields.io/badge/-@howionwastaken-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=howionwastaken "Follow on Twitter")
 [![Spotify](https://img.shields.io/badge/-MERT&nbsp;&#8212;&nbsp;howion-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe "Follow me on Spotify")
 [![Reddit](https://img.shields.io/badge/-u/howionwastaken-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/howionwastaken/ "Find me on Reddit")
