@@ -61,7 +61,7 @@
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-1JZWiom8N4iohFMnF6xj7ASXWQoo7fUwzm-important?style=flat&logo=bitcoin&logoColor=white)
 ![Tether](https://img.shields.io/badge/Tether%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-259b78?style=flat&logo=tether&logoColor=white)
-![Monero](https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logo=monero&logoColor=white)
+<img alt="Monero" width="750px" src="https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logo=monero&logoColor=white" />
 ![Ethereum](https://img.shields.io/badge/Ethereum%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-60658b?style=flat&logo=ethereum&logoColor=white)
 
 </details>
