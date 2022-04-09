@@ -33,8 +33,7 @@
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; and trying to hold my tears,
   - [Mahler's Hammer](https://github.com/mahlers-hammer) &mdash; working locally for now,
   - [non-Euclidean](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) engine with [OpenGL](https://www.opengl.org/),
-  - things related to cryptography,
-  - and some other stuff.
+  - and some other various stuff.
 
 - **I want to write/work on:**
   - Any [Quantum Information Theory](https://en.wikipedia.org/wiki/Quantum_information) related project,
