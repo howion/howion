@@ -28,9 +28,10 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg) -->
 
 - **I'm currently working on:**
-  - an alternative to [LaTeX](https://www.latex-project.org/) (no its not a bad idea),
+  - an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
-  - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (and trying to hold my tears),
+  - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; and trying to hold my tears,
+  - [Mahler's Hammer](https://github.com/mahlers-hammer) &mdash; working locally for now,
   - [non-Euclidean](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) engine with [OpenGL](https://www.opengl.org/),
   - things related to cryptography,
   - and some other stuff.
