@@ -18,10 +18,10 @@
 [![Instagram](https://img.shields.io/badge/-omermertcoskun-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/omermertcoskun/ "Follow me on Instagram")
 [![Telegram](https://img.shields.io/badge/-@howion-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/howion "Contact me on Telegram")
 [![Keybase PGP](https://img.shields.io/badge/Keybase&nbsp;PGP%20-F6735A378EF369F6-critical?style=flat&logo=keybase&logoColor=white)](https://keybase.io/howion)
-![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Linux%2FTails-informational?style=flat&logoColor=white)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8324--2325-blue?style=flat&logoColor=white)](https://orcid.org/0000-0002-8324-2325)
+<!-- ![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logoColor=white) -->
+<!-- ![OS](https://img.shields.io/badge/OS-Linux%2FTails-informational?style=flat&logoColor=white) -->
+<!-- [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) -->
 
 </div>
 
