@@ -1,4 +1,4 @@
-# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion. <img align="left" src="https://raw.githubusercontent.com/howion/howion/master/satanic-ram-horn.png" width="140px" />
+# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mert — howion. <img align="left" src="https://raw.githubusercontent.com/howion/howion/master/satanic-ram-horn.png" width="160px" />
 
 <!-- > Ah you think internet is your ally? You merely adopted the internet. I was born in it, molded by it. -->
 
@@ -28,6 +28,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" width="360px"/>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg) -->
+
+<br/>
 
 - **I'm currently working on:**
   - an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,
