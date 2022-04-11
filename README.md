@@ -50,6 +50,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,cloudflare,codepen,css,dotnet,express,figma,git,html,ai,js,jquery,latex,md,mysql,nodejs,php,prisma,py,react,sass,svg,ts,visualstudio,vscodem)](https://skillicons.dev) -->
 
+<div align="center">
+  
+  ## 
+
+</div>
+
 <br/>
 <div align="center">
   <a href="https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe" target="_blank">
