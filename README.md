@@ -12,6 +12,7 @@
 [![Twitter](https://img.shields.io/badge/-@howionwastaken-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=howionwastaken "Follow on Twitter")
 [![Spotify](https://img.shields.io/badge/-MERT&nbsp;&#8212;&nbsp;howion-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/avxit10lkjwlmlw605mxg7nbe "Follow me on Spotify")
 [![Reddit](https://img.shields.io/badge/-u/howionwastaken-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/howionwastaken/ "Find me on Reddit")
+[![Steam](https://img.shields.io/badge/-howion-000100?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/howion "Me on Steam")
 [![StackOverflow](https://img.shields.io/badge/-howion-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/11771918/howion?tab=profile)
 [![Instagram](https://img.shields.io/badge/-omermertcoskun-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/omermertcoskun/ "Follow me on Instagram")
 [![Telegram](https://img.shields.io/badge/-@howion-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/howion "Contact me on Telegram")
