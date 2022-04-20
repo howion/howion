@@ -1,4 +1,4 @@
-# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm Mert — howion. <img align="left" src="https://raw.githubusercontent.com/howion/howion/master/satanic-ram-horn.png" width="160px" />
+# Hi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm Mert — howion. <img align="left" src="https://raw.githubusercontent.com/howion/howion/master/public/satanic-ram-horn.png" width="160px" />
 
 <div align="left">
 
