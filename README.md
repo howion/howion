@@ -147,11 +147,23 @@ pDcki0whmZ8TfiGzmXUzAK3InJREaC9JnWqEb7+X+lU8kj2z4cLgMfmLRufM
 <!-- [![ts-node](https://img.shields.io/badge/-tsnode-3178C6?logo=tsnode&logoColor=ffffff&style=flat)](https://typestrong.org/ts-node/) -->
 <!-- [![Shields.io](https://img.shields.io/badge/-Shields.io-000000?logo=shieldsdotio&logoColor=ffffff&style=flat)](https://shields.io) -->
 <!-- [![uBlock Origin](https://img.shields.io/badge/-uBlock%20Origin-800000?logo=ublockorigin&logoColor=ffffff&style=flat)](https://github.com/gorhill/uBlock/blob/master/src/img/ublock.svg) -->
-
+<!-- [![Adobe](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=ffffff&style=flat)](https://www.adobe.com/) -->
+<!-- [![Adobe Acrobat Reader](https://img.shields.io/badge/-Adobe%20Acrobat%20Reader-EC1C24?logo=adobeacrobatreader&logoColor=ffffff&style=flat)](https://acrobat.adobe.com/) -->
+<!-- [![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=ffffff&style=flat)](https://www.adobe.com/creativecloud/plans.html) -->
+<!-- [![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=ffffff&style=flat)](https://www.behance.net/dev/api/brand) -->
+<!-- [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?logo=bitcoin&logoColor=ffffff&style=flat)](https://bitcoin.org/en) -->
+<!-- [![Brave](https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=ffffff&style=flat)](https://brave.com/brave-branding-assets/) -->
+<!-- [![Firefox Browser](https://img.shields.io/badge/-Firefox%20Browser-FF7139?logo=firefoxbrowser&logoColor=ffffff&style=flat)](https://mozilla.design/firefox/logos-usage/) -->
+<!-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=flat)](https://github.com/logos) -->
+<!-- [![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-4285F4?logo=googlecalendar&logoColor=ffffff&style=flat)](https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v8/192px.svg) -->
+<!-- [![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=googlechrome&logoColor=ffffff&style=flat)](https://www.google.com/chrome/) -->
+<!-- [![Gravatar](https://img.shields.io/badge/-Gravatar-1E8CBE?logo=gravatar&logoColor=ffffff&style=flat)](https://automattic.com/press/brand-materials/) -->
+<!-- [![JSFiddle](https://img.shields.io/badge/-JSFiddle-0084FF?logo=jsfiddle&logoColor=ffffff&style=flat)](https://jsfiddle.net/) -->
+<!-- [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=ffffff&style=flat)](https://developer.microsoft.com/en-us/microsoft-365) -->
+<!-- [![Monero](https://img.shields.io/badge/-Monero-FF6600?logo=monero&logoColor=ffffff&style=flat)](https://www.getmonero.org/press-kit/) -->
+<!-- [![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=ffffff&style=flat)](https://www.notion.so/) -->
+  
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=ffffff&style=flat)](https://github.com/dotnet/brand/)
-[![Adobe](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=ffffff&style=flat)](https://www.adobe.com/)
-[![Adobe Acrobat Reader](https://img.shields.io/badge/-Adobe%20Acrobat%20Reader-EC1C24?logo=adobeacrobatreader&logoColor=ffffff&style=flat)](https://acrobat.adobe.com/)
-[![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=ffffff&style=flat)](https://www.adobe.com/creativecloud/plans.html)
 [![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=ffffff&style=flat)](https://www.adobe.com/products/illustrator.html)
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=ffffff&style=flat)](https://www.adobe.com/products/photoshop.html)
 [![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=ffffff&style=flat)](https://www.adobe.com/products/xd.html)
@@ -159,10 +171,7 @@ pDcki0whmZ8TfiGzmXUzAK3InJREaC9JnWqEb7+X+lU8kj2z4cLgMfmLRufM
 [![Apache Cordova](https://img.shields.io/badge/-Apache%20Cordova-E8E8E8?logo=apachecordova&logoColor=ffffff&style=flat)](https://cordova.apache.org/artwork/)
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=ffffff&style=flat)](https://www.archlinux.org/art/)
 [![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=ffffff&style=flat)](https://github.com/babel/website/blob/93330158b6ecca1ab88d3be8dbf661f5c2da6c76/website/static/img/babel-black.svg)
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=ffffff&style=flat)](https://www.behance.net/dev/api/brand)
-[![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?logo=bitcoin&logoColor=ffffff&style=flat)](https://bitcoin.org/en)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=flat)](http://getbootstrap.com/about)
-[![Brave](https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=ffffff&style=flat)](https://brave.com/brave-branding-assets/)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=csharp&logoColor=ffffff&style=flat)](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=ffffff&style=flat)](https://github.com/isocpp/logos)
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=ffffff&style=flat)](https://www.cloudflare.com/logo/)
@@ -175,30 +184,19 @@ pDcki0whmZ8TfiGzmXUzAK3InJREaC9JnWqEb7+X+lU8kj2z4cLgMfmLRufM
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=ffffff&style=flat)](https://www.digitalocean.com/press/)
 [![EditorConfig](https://img.shields.io/badge/-EditorConfig-FEFEFE?logo=editorconfig&logoColor=ffffff&style=flat)](https://editorconfig.org)
 [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=ffffff&style=flat)](https://github.com/openjs-foundation/artwork/blob/ac43961d1157f973c54f210cf5e0c9c45e3d3f10/projects/express/express-icon-black.svg)
-[![Firefox Browser](https://img.shields.io/badge/-Firefox%20Browser-FF7139?logo=firefoxbrowser&logoColor=ffffff&style=flat)](https://mozilla.design/firefox/logos-usage/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff&style=flat)](http://git-scm.com/downloads/logos)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=flat)](https://github.com/logos)
 [![GNU Privacy Guard](https://img.shields.io/badge/-GNU%20Privacy%20Guard-0093DD?logo=gnuprivacyguard&logoColor=ffffff&style=flat)](https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=tree;f=artwork/icons)
-[![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-4285F4?logo=googlecalendar&logoColor=ffffff&style=flat)](https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v8/192px.svg)
-[![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=googlechrome&logoColor=ffffff&style=flat)](https://www.google.com/chrome/)
-[![Google Meet](https://img.shields.io/badge/-Google%20Meet-00897B?logo=googlemeet&logoColor=ffffff&style=flat)](https://about.google/brand-resource-center/logos-list/)
-[![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?logo=googletagmanager&logoColor=ffffff&style=flat)](https://tagmanager.google.com/#/home)
-[![Gravatar](https://img.shields.io/badge/-Gravatar-1E8CBE?logo=gravatar&logoColor=ffffff&style=flat)](https://automattic.com/press/brand-materials/)
 [![gulp](https://img.shields.io/badge/-gulp-CF4647?logo=gulp&logoColor=ffffff&style=flat)](https://github.com/gulpjs/artwork/blob/4e14158817ac88e9a5c02b3b307e6f630fe222fb/gulp-white-text.svg)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff&style=flat)](http://www.w3.org/html/logo/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff&style=flat)](https://github.com/voodootikigod/logo.js)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=ffffff&style=flat)](https://brand.jquery.org/logos/)
 [![jsDelivr](https://img.shields.io/badge/-jsDelivr-E84D3D?logo=jsdelivr&logoColor=ffffff&style=flat)](https://github.com/jsdelivr/www.jsdelivr.com/blob/eff02f3a8879cf7c7296840584e1293fe04e3a76/src/public/img/logo_horizontal.svg)
-[![JSFiddle](https://img.shields.io/badge/-JSFiddle-0084FF?logo=jsfiddle&logoColor=ffffff&style=flat)](https://jsfiddle.net/)
 [![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?logo=jsonwebtokens&logoColor=ffffff&style=flat)](https://jwt.io/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=ffffff&style=flat)](https://github.com/latex3/branding)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=ffffff&style=flat)](https://www.linuxfoundation.org/the-linux-mark/)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=ffffff&style=flat)](https://github.com/dcurtis/markdown-mark)
-[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=ffffff&style=flat)](https://developer.microsoft.com/en-us/microsoft-365)
-[![Monero](https://img.shields.io/badge/-Monero-FF6600?logo=monero&logoColor=ffffff&style=flat)](https://www.getmonero.org/press-kit/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff&style=flat)](https://www.mysql.com/about/legal/logos.html)
 [![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=ffffff&style=flat)](https://www.nginx.com/press/)
-[![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=ffffff&style=flat)](https://www.notion.so/)
 [![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?logo=nvidia&logoColor=ffffff&style=flat)](https://www.nvidia.com/etc/designs/nvidiaGDC/clientlibs_base/images/NVIDIA-Logo.svg)
 [![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obsstudio&logoColor=ffffff&style=flat)](https://upload.wikimedia.org/wikipedia/commons/7/78/OBS.svg)
 [![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=ffffff&style=flat)](https://www.khronos.org/legal/trademarks/)
