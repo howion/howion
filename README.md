@@ -25,7 +25,7 @@
 
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=opengl-vs-boilerplate" width="360px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howion&layout=compact&langs_count=10&exclude_repo=howion" width="360px"/>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg) -->
 
