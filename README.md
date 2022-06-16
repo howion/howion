@@ -34,7 +34,8 @@
 - **I'm currently working on:**
   - an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
-  - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; and trying to hold my tears,
+  - two brave new programming languages &mdash; hopefully second one will be released soon,
+  - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while trying to hold my tears,
   - [Mahler's Hammer](https://github.com/mahlers-hammer) &mdash; working locally for now,
   - [non-Euclidean](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) engine with [OpenGL](https://www.opengl.org/),
   - and some other various stuff.
