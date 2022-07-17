@@ -2,9 +2,12 @@
 
 <div align="left">
 
-![Visitors](https://komarev.com/ghpvc/?username=howion)
+<!--
 ![Years](https://badges.pufler.dev/years/howion)
 ![Repos](https://badges.pufler.dev/repos/howion)
+-->
+
+![Visitors](https://komarev.com/ghpvc/?username=howion)
 [![Mail](https://img.shields.io/badge/-mert.coskun@metu.edu.tr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mert.coskun@metu.edu.tr "Connect via Email")
 [![LinkedIn](https://img.shields.io/badge/-omer--mert--coskun-0072ae?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-mert-coskun/ "Connect on LinkedIn")
 [![Behance](https://img.shields.io/badge/-howion-0057ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/howion "My Béhance")
