@@ -35,18 +35,19 @@
 <br/>
 
 - **I'm currently working on:**
-  - an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
-  - two brave new programming languages &mdash; hopefully second one will be released soon,
-  - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while trying to hold my tears,
-  - [Mahler's Hammer](https://github.com/mahlers-hammer) &mdash; working locally for now,
-  - [non-Euclidean](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) engine with [OpenGL](https://www.opengl.org/),
-  - and some other various stuff.
+  - two brave new programming languages &mdash; hopefully second one will be released soon and be my magnum opus,
+  - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while holding my tears,
+  - [Mahler's Hammer](https://github.com/mahlers-hammer) &mdash; postponed,
+  - ~~[non-Euclidean](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) engine with [OpenGL](https://www.opengl.org/)~~,
+  - an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,
+  - stuff I can not or should not share here,
+  - and other various projects.
 
 - **I want to write/work on:**
   - Any [Quantum Information Theory](https://en.wikipedia.org/wiki/Quantum_information) related project,
   - An [Arch-based](https://wiki.archlinux.org/title/Arch-based_distributions) operating system,
-  - Custom [Chromium](https://github.com/chromium/chromium) browser.
+  - ~~Custom (probably chromium based) browser~~.
 
 - You can reach me via `mert.coskun@metu.edu.tr`, and please do so if you are interested.
 
