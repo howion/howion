@@ -46,6 +46,7 @@
   - and other various projects.
 
 - **I want to write/work on:**
+  - Quantitative finance,
   - New innovative Linux distro with unique package manager and android-like isolation,
   - Any [Quantum Information Theory](https://en.wikipedia.org/wiki/Quantum_information) related project,
   - ~~An [Arch-based](https://wiki.archlinux.org/title/Arch-based_distributions) operating system~~,
