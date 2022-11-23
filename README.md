@@ -35,6 +35,7 @@
 <br/>
 
 - **I'm currently working on:**
+  - Digitization of 19th Century Anatolia (See: https://twitter.com/19thanatolia),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
   - two brave new programming languages &mdash; hopefully second one will be released soon and be my magnum opus,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while holding my tears,
