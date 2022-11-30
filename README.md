@@ -187,6 +187,17 @@ lkjGWD2uptF5kh+nDtX+DZMmanQv3YqNtdDrV20Skzbb5FCJXjIKFRNSqmCCthyl
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=ffffff&style=flat)](https://stackoverflow.design/brand/logo/) -->
 <!-- [![Unsplash](https://img.shields.io/badge/-Unsplash-000000?logo=unsplash&logoColor=ffffff&style=flat)](https://unsplash.com/) -->
 <!-- [![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=ffffff&style=flat)](https://www.apachefriends.org/en/) -->
+<!-- [![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=ffffff&style=flat)](https://github.com/phpmyadmin/data/blob/b7d3bdb9bb973beff4726541b87d3a4c8a950b4b/brand/phpMyAdmin-Logo-Symbol.svg) -->
+<!-- [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=ffffff&style=flat)](https://www.cloudflare.com/logo/) -->
+<!-- [![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=ffffff&style=flat)](https://cpanel.net/company/cpanel-brand-guide/) -->
+<!-- [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=ffffff&style=flat)](https://visualstudio.microsoft.com/) -->
+<!-- [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=ffffff&style=flat)](https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg) -->
+<!-- [![Wappalyzer](https://img.shields.io/badge/-Wappalyzer-32067C?logo=wappalyzer&logoColor=ffffff&style=flat)](https://www.wappalyzer.com/) -->
+<!-- [![PyPI](https://img.shields.io/badge/-PyPI-3775A9?logo=pypi&logoColor=ffffff&style=flat)](https://pypi.org/) -->
+<!-- [![jsDelivr](https://img.shields.io/badge/-jsDelivr-E84D3D?logo=jsdelivr&logoColor=ffffff&style=flat)](https://github.com/jsdelivr/www.jsdelivr.com/blob/eff02f3a8879cf7c7296840584e1293fe04e3a76/src/public/img/logo_horizontal.svg) -->
+<!-- [![gulp](https://img.shields.io/badge/-gulp-CF4647?logo=gulp&logoColor=ffffff&style=flat)](https://github.com/gulpjs/artwork/blob/4e14158817ac88e9a5c02b3b307e6f630fe222fb/gulp-white-text.svg) -->
+<!-- [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=ffffff&style=flat)](https://design.ubuntu.com/brand/ubuntu-logo/) -->
+<!-- [![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=ffffff&style=flat)](https://github.com/dcurtis/markdown-mark) -->
   
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=ffffff&style=flat)](https://github.com/dotnet/brand/)
 [![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=ffffff&style=flat)](https://www.adobe.com/products/illustrator.html)
@@ -198,8 +209,6 @@ lkjGWD2uptF5kh+nDtX+DZMmanQv3YqNtdDrV20Skzbb5FCJXjIKFRNSqmCCthyl
 [![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=ffffff&style=flat)](https://github.com/babel/website/blob/93330158b6ecca1ab88d3be8dbf661f5c2da6c76/website/static/img/babel-black.svg)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=flat)](http://getbootstrap.com/about)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=csharp&logoColor=ffffff&style=flat)](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg)
-[![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=ffffff&style=flat)](https://www.cloudflare.com/logo/)
-[![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=ffffff&style=flat)](https://cpanel.net/company/cpanel-brand-guide/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff&style=flat)](http://www.w3.org/html/logo/)
 [![CurseForge](https://img.shields.io/badge/-CurseForge-6441A4?logo=curseforge&logoColor=ffffff&style=flat)](https://www.curseforge.com/)
 [![Cytoscape.js](https://img.shields.io/badge/-Cytoscape.js-F7DF1E?logo=cytoscapedotjs&logoColor=ffffff&style=flat)](https://github.com/cytoscape/cytoscape.js/blob/97c27700feefe2f7b79fca248763049e9a0b38c6/documentation/img/cytoscape-logo.svg)
@@ -209,25 +218,20 @@ lkjGWD2uptF5kh+nDtX+DZMmanQv3YqNtdDrV20Skzbb5FCJXjIKFRNSqmCCthyl
 [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=ffffff&style=flat)](https://github.com/openjs-foundation/artwork/blob/ac43961d1157f973c54f210cf5e0c9c45e3d3f10/projects/express/express-icon-black.svg)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff&style=flat)](http://git-scm.com/downloads/logos)
 [![GNU Privacy Guard](https://img.shields.io/badge/-GNU%20Privacy%20Guard-0093DD?logo=gnuprivacyguard&logoColor=ffffff&style=flat)](https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=tree;f=artwork/icons)
-[![gulp](https://img.shields.io/badge/-gulp-CF4647?logo=gulp&logoColor=ffffff&style=flat)](https://github.com/gulpjs/artwork/blob/4e14158817ac88e9a5c02b3b307e6f630fe222fb/gulp-white-text.svg)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff&style=flat)](https://github.com/voodootikigod/logo.js)
-[![jsDelivr](https://img.shields.io/badge/-jsDelivr-E84D3D?logo=jsdelivr&logoColor=ffffff&style=flat)](https://github.com/jsdelivr/www.jsdelivr.com/blob/eff02f3a8879cf7c7296840584e1293fe04e3a76/src/public/img/logo_horizontal.svg)
 [![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?logo=jsonwebtokens&logoColor=ffffff&style=flat)](https://jwt.io/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=ffffff&style=flat)](https://github.com/latex3/branding)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=ffffff&style=flat)](https://www.linuxfoundation.org/the-linux-mark/)
-[![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=ffffff&style=flat)](https://github.com/dcurtis/markdown-mark)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff&style=flat)](https://www.mysql.com/about/legal/logos.html)
 [![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=ffffff&style=flat)](https://www.nginx.com/press/)
 [![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?logo=openvpn&logoColor=ffffff&style=flat)](https://openvpn.net/wp-content/themes/openvpn/assets/images/logo.svg)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=ffffff&style=flat)](http://php.net/download-logos.php)
-[![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=ffffff&style=flat)](https://github.com/phpmyadmin/data/blob/b7d3bdb9bb973beff4726541b87d3a4c8a950b4b/brand/phpMyAdmin-Logo-Symbol.svg)
 [![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss&logoColor=ffffff&style=flat)](https://postcss.org/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=ffffff&style=flat)](https://www.getpostman.com/resources/media-assets/)
 [![Preact](https://img.shields.io/badge/-Preact-673AB8?logo=preact&logoColor=ffffff&style=flat)](https://preactjs.com)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=ffffff&style=flat)](https://github.com/prisma/presskit)
 [![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=ffffff&style=flat)](https://pptr.dev/)
 [![PWA](https://img.shields.io/badge/-PWA-5A0FC8?logo=pwa&logoColor=ffffff&style=flat)](https://github.com/webmaxru/progressive-web-apps-logo/blob/77744cd5c0a4d484bb3d082c6ac458c44202da03/pwalogo-white.svg)
-[![PyPI](https://img.shields.io/badge/-PyPI-3775A9?logo=pypi&logoColor=ffffff&style=flat)](https://pypi.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff&style=flat)](https://www.python.org/community/logos/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=ffffff&style=flat)](https://github.com/facebook/create-react-app/blob/282c03f9525fdf8061ffa1ec50dce89296d916bd/test/fixtures/relative-paths/src/logo.svg)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=ffffff&style=flat)](http://sass-lang.com/styleguide/brand)
@@ -240,11 +244,7 @@ lkjGWD2uptF5kh+nDtX+DZMmanQv3YqNtdDrV20Skzbb5FCJXjIKFRNSqmCCthyl
 [![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=ffffff&style=flat)](https://github.com/mrdoob/three.js/blob/a567b810cfcb7f6a03e4faea99f03c53081da477/files/icon.svg)
 [![Tor Project](https://img.shields.io/badge/-Tor%20Project-7E4798?logo=torproject&logoColor=ffffff&style=flat)](https://styleguide.torproject.org/brand-assets/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff&style=flat)](https://www.typescriptlang.org/branding)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=ffffff&style=flat)](https://design.ubuntu.com/brand/ubuntu-logo/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=ffffff&style=flat)](https://vercel.com/design)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=ffffff&style=flat)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=ffffff&style=flat)](https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg)
-[![Wappalyzer](https://img.shields.io/badge/-Wappalyzer-32067C?logo=wappalyzer&logoColor=ffffff&style=flat)](https://www.wappalyzer.com/)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=ffffff&style=flat)](https://webpack.js.org/branding/)
 [![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=ffffff&style=flat)](https://webrtc.org/)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=ffffff&style=flat)](https://www.jetbrains.com/company/brand/logos/)
