@@ -251,11 +251,4 @@ lkjGWD2uptF5kh+nDtX+DZMmanQv3YqNtdDrV20Skzbb5FCJXjIKFRNSqmCCthyl
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=ffffff&style=flat)](https://gitlab.com/wanduow/wireshark/-/blob/cd5539b0f76975474869984a9d2f0fce29d5c21e/image/wsicon.svg)
 [![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?logo=wolfram&logoColor=ffffff&style=flat)](http://company.wolfram.com/press-center/wolfram-corporate/)
 
-  <br/>
-  
-  <img src="https://c.tenor.com/nnCFwy-RjkAAAAAC/bane-dark-knight-rises.gif" />
-  <br/>
-  <br/>
-  
-  _Ah you think internet is your ally? You merely adopted the internet. I was born in it, molded by it._
 </details>
