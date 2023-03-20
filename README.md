@@ -73,7 +73,7 @@
 </div>
 <br/>
 
-<details align="center">
+<!-- <details align="center">
   <summary><b>Me on Blockchain</b></summary>
   <br/>
 
@@ -82,7 +82,7 @@
 ![Monero](https://img.shields.io/badge/Monero%20-43fY4Rw7AjcjWB3N52QWSBMVfbR8ucGHUT2Q1sTLtDpKVnyCokowVJNBa6HbcjqrvwCUenn1umjmJfshLjGyxMf2BcfX1Gj-000?style=flat&logo=monero&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum%20-0xE3BB40E31c7Cc844D07F97432682a968DB51be2F-60658b?style=flat&logo=ethereum&logoColor=white)
 
-</details>
+</details> -->
 
 <details align="center">
   <summary><b>PgP Key</b></summary>
