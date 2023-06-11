@@ -85,7 +85,7 @@
 </details> -->
 
 <details align="center">
-  <summary><b>PgP Key</b></summary>
+  <summary><b>PgP Key (null key encrypted)</b></summary>
   <br/>
 
 ```
