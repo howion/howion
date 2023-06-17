@@ -1,4 +1,4 @@
-# Hi. I'm M̴̧̡̡̢͎̬͖̬̠̭̱̝̩̪̝̠͎͈̪̰͕͓̼̻͎̮̜̫̬͍̱̭̠̟̖͉͈̺͙͉͒́͂̾̅̚̚͜͜͜Ę̷̡̡̧̨͎͕̟̪̰͍̬̮̥̝̖̯͕̳̳̜̭͖̯͙̜̰̤̼̠̼̪̝̐̔̍̋͜͝R̶̘̹̠̻̺̟̞̦͗̓̓̐̄̀͊̏̔͂͑̉͆͘̕͝T̴̢̨̛̩̮̖̺̱͙̳̪̠̼͐͌̇̀̓́͂̎̔͗͂̄̈́̆́̏̉̀͑͗͐̈́̋̇͌̿̅͒̓͒͒̂͋͘͝͝ — howion. <img align="left" src="https://raw.githubusercontent.com/howion/howion/master/public/satanic-ram-horn.png" width="160px" />
+# Hi. I'm M̴̧̡̡̢͎̬͖̬̠̭̱̝̩̪̝̠͎͈̪̰͕͓̼̻͎̮̜̫̬͍̱̭̠̟̖͉͈̺͙͉͒́͂̾̅̚̚͜͜͜Ę̷̡̡̧̨͎͕̟̪̰͍̬̮̥̝̖̯͕̳̳̜̭͖̯͙̜̰̤̼̠̼̪̝̐̔̍̋͜͝R̶̘̹̠̻̺̟̞̦͗̓̓̐̄̀͊̏̔͂͑̉͆͘̕͝T̴̢̨̛̩̮̖̺̱͙̳̪̠̼͐͌̇̀̓́͂̎̔͗͂̄̈́̆́̏̉̀͑͗͐̈́̋̇͌̿̅͒̓͒͒̂͋͘͝͝ — <samp>howion.</samp> <img align="left" src="https://raw.githubusercontent.com/howion/howion/master/public/satanic-ram-horn.png" width="160px" />
 
 <div align="left">
 
@@ -85,7 +85,7 @@
 </details> -->
 
 <details align="center">
-  <summary><b>PgP Key (null-key encrypted)</b></summary>
+  <summary><samp><b>PgP Key (null-key encrypted)</b></samp></summary>
   <br/>
 
 ```
@@ -144,7 +144,7 @@ fbgji1+P8NwJmE9AyiKppEihut6ztkr3Nx8JvfBKaqqCyxOzDI5S
 </details>
 
 <details align="center">
-  <summary><b>Technologies Used</b></summary>
+  <summary><samp><b>Technologies Used</b></samp></summary>
   <br/>
 
 <!-- [![Ask Ubuntu](https://img.shields.io/badge/-Ask%20Ubuntu-DC461D?logo=askubuntu&logoColor=ffffff&style=flat)](https://askubuntu.com/) -->
