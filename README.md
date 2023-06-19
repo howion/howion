@@ -85,7 +85,7 @@
 </details> -->
 
 <details align="center">
-  <summary><samp><b>PgP Key (null-key encrypted)</b></samp></summary>
+  <summary><samp><b>PgP Key (null-key encrypted :bat:)</b></samp></summary>
   <br/>
 
 ```
