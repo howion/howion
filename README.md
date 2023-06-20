@@ -41,9 +41,8 @@
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while holding my tears,
   - [Mahler's Hammer](https://github.com/mahlers-hammer) &mdash; postponed,
   - ~~[non-Euclidean](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) engine with [OpenGL](https://www.opengl.org/)~~,
-  - an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,
-  - stuff I can not or should not share here,
-  - and other various projects.
+  - ~~an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,~~ &mdash; Seems like [typst](https://github.com/typst/typst) has flawlessly beat me to it,
+  - and some other stuff.
 
 - **I want to write/work on:**
   - Quantitative finance,
