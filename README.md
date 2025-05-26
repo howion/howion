@@ -61,7 +61,9 @@
 
 <div align="center">
 
-[![Watch on YouTube](https://raw.githubusercontent.com/howion/howion/master/theatricality_and_deception.jpg)](https://www.youtube.com/watch?v=rDuetklFtDQ)
+<a href="https://www.youtube.com/watch?v=rDuetklFtDQ" target="_blank">
+<img src="https://raw.githubusercontent.com/howion/howion/master/theatricality_and_deception.jpg" alt="Watch video">
+</a>
 
 </div>
 
