@@ -35,7 +35,7 @@
 <br/>
 
 - **I'm currently working on:**
-  - Digitization of 19th Century Anatolia (See: https://twitter.com/19thanatolia),
+  - Digitization of 19th Century Anatolia (See: <https://twitter.com/19thanatolia>),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
   - two brave new programming languages &mdash; hopefully second one will be released soon and be my magnum opus,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while holding my tears,
@@ -53,18 +53,17 @@
 
 - You can reach me via `me@howion.com` and please do so if you are interested.
 
-
 ## My Tech Stack
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=cs,cpp,cloudflare,codepen,css,dotnet,express,figma,git,html,ai,js,jquery,latex,md,mysql,nodejs,php,prisma,py,react,sass,svg,ts,visualstudio,vscodem)](https://skillicons.dev) -->
 
 [![My Skills](https://skillicons.dev/icons?i=arch,astro,aws,babel,bash,bun,cs,css,docker,dotnet,electron,figma,git,github,go,html,js,latex,linux,nextjs,nodejs,npm,php,prisma,react,redis,rollupjs,sass,ts,vscode)](https://skillicons.dev)
 
-<!-- <div align="center">
-  
-  ## 
+<div align="center">
 
-</div> -->
+[![Watch on YouTube](https://raw.githubusercontent.com/howion/howion/master/theatricality_and_deception.jpg)](https://www.youtube.com/watch?v=rDuetklFtDQ)
+
+</div>
 
 <!-- <br/>
 <div align="center">
