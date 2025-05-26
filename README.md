@@ -51,7 +51,7 @@
   - ~~An [Arch-based](https://wiki.archlinux.org/title/Arch-based_distributions) operating system~~,
   - ~~Custom (probably chromium based) browser~~.
 
-- You can reach me via `me@howion.com` and please do so if you are interested.
+- You can reach me via `mert.coskun@metu.edu.tr` and please do so if you are interested.
 
 ## My Tech Stack
 
