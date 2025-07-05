@@ -59,6 +59,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,astro,aws,babel,bash,bun,cs,css,docker,dotnet,electron,figma,git,github,go,html,js,latex,linux,nextjs,nodejs,npm,php,prisma,react,redis,rollupjs,sass,ts,vscode)](https://skillicons.dev)
 
+<!--
 <div align="center">
 
 <a href="https://www.youtube.com/watch?v=rDuetklFtDQ" target="_blank">
@@ -66,6 +67,7 @@
 </a>
 
 </div>
+-->
 
 <!-- <br/>
 <div align="center">
