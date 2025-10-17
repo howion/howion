@@ -1,0 +1,10 @@
+{
+  "name": "howion",
+  "version": "0.1.0",
+  "description": "howion's boilerplates and configurations",
+  "main": "index.js",
+  "repository": "https://github.com/howion/howion.git",
+  "author": "MERT <howionwastaken@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
