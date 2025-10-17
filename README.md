@@ -37,19 +37,11 @@
 - **I'm currently working on:**
   - Digitization of 19th Century Anatolia (See: <https://x.com/19thanatolia>),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
+  - [Principia Historica](https://github.com/principia-historica),
   - two brave new programming languages &mdash; hopefully second one will be released soon and be my magnum opus,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while holding my tears,
-  - [Mahler's Hammer](https://github.com/mahlers-hammer) &mdash; postponed,
-  - ~~[non-Euclidean](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) engine with [OpenGL](https://www.opengl.org/)~~,
   - ~~an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,~~ &mdash; Seems like [typst](https://github.com/typst/typst) has flawlessly beat me to it,
   - and some other stuff.
-
-- **I want to write/work on:**
-  - Quantitative finance,
-  - New innovative Linux distro with unique package manager and android-like isolation,
-  - Any [Quantum Information Theory](https://en.wikipedia.org/wiki/Quantum_information) related project,
-  - ~~An [Arch-based](https://wiki.archlinux.org/title/Arch-based_distributions) operating system~~,
-  - ~~Custom (probably chromium based) browser~~.
 
 - You can reach me via `mert.coskun@metu.edu.tr` and please do so if you are interested.
 
@@ -132,3 +124,63 @@
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=ffffff&style=flat)](https://gitlab.com/wanduow/wireshark/-/blob/cd5539b0f76975474869984a9d2f0fce29d5c21e/image/wsicon.svg)
 [![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?logo=wolfram&logoColor=ffffff&style=flat)](http://company.wolfram.com/press-center/wolfram-corporate/)
 </details> -->
+
+<center>
+<details>
+<summary><b>PgP Public Key</b></summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGjyr+YBEAC8jVu4PRbNF6gMUF68gadMElPkcUPkjSWvJUFKTuQ3vFg1J7Dc
+Bf9yqrGAnpr7Bq5Pwfx2nKRHRcf+/TmXdYmLvweLW5ZScTX97hOu/qA1UGFUGExJ
++z87VpxKlOt9odkuXV2Llgc5voE9GI5Oq+58yQsD7KtQ5hX92qsX7FIfAKF41eyJ
+FnFxeSO4EPcV5h1RXcPDGaXY7vdAXmmMAMPbpWLjIh4PlEvsgCig0RPan82K+l59
+UmaetbMmejrE7axR5XMeBdBrB2DJR7gD/Y2aiy/TWpTwInNOM0njBtpLokIDHS4h
+H5p9/SEtVFNwkuNIhQAtMj5n+D5edp/eVWcqR8/PINw1EbsqoEF3gLX0z7fAx+PP
+OiCg5ya5IyYcNBQFl/fwmOE+iO8ySeMYiE9WX9LlZMpdg57ZFVFTASOGFh6w0XBy
+aZhSrlHGUvqdJHllputhHspLF03wwUzSIE72kKtWZ9gRai+YaWfyyDHvMqNFZf/U
+aWADAPIyaVYzqBjeycwzc7dppq6Uq1La04L1AqhSkMWXxqzZMYDtWe9e970OXX99
+gOBztsfEFdm6vMtb3ebj2FcSO5J9W77IZsx2pevf7PE3oq4VKZYdJ4YWcmo5GYJz
+jW3ALf6SdBjzxrmwRW5UFq+oJCmBu4bqwDfCxdMTgSpmOfT3NrmLxn1+hQARAQAB
+tCFob3dpb24gPGhvd2lvbndhc3Rha2VuQGdtYWlsLmNvbT6JAk4EEwEKADgWIQTU
+NuuwuIHtwizKaFu+rVn6+UbDBgUCaPKv5gIbAwULCQgHAgYVCgkICwIEFgIDAQIe
+AQIXgAAKCRC+rVn6+UbDBmfkD/0QtRvZuFZyi6YOzXu1XV+1JYJ7PXkDeFndffYT
+A40ns6IdKIRXcGrGl1BJswdvCtaRwY2G67l/WXGHGe31dYXl8CUs0EBDSpLh8H5q
+mgWVyx2o3EllKERgo+lZgFBhj7MavYTHSa0to/u2yAf+gGGj346tAK46fhEdisdS
+oK6fC9+/E9+yDwuYIwAf8guaKEtqr5Ub5WrCfEaD0fmNtuKTLpi6AeJ9JCTZ5y6b
+ecw2ED20zYCRlRCOhAJp4/k1P6OkQSvcvFWBGBCQnQuJAbGHtlM4tb5kkcHLv+jM
+/wHiM2KIxJ/eJ8HJZiRq3P6umhDxLVsl+DLMCpCgB/ABxNeIZiE0EqReNFdygbya
+IS6UpAyitMZH8CgywN6CSg8t2QIK1vY9AWMF/keF0+uF6+mTfXD7JOSiCTIPKlD1
+QdcKgF5aBNC1n7bLZ1ejnUi/HY+QzDQveGBm2Z4NR0uK0MG516P0bRnEo8SSyTpf
+LfPUUq6fPKEMQn85toBU8X/BcCiDnDLhXUZcoihzG/GD3MIC7S22sCG/ApD38CYR
+4chn+KdGF1f/ix+WJJXVOypMiAtnKj5pBC9p1qPNSEgycrFssI9iFwLDRqBLcSls
+h9W9BlEfd3jBqyzzECLLlqu/83FikQmdSJouhpaSAIIthvh39bj8MS3KqI++vPXV
+wVCfarkCDQRo8q/mARAA3T7YL3HtvAcj2jqsdoPm+sBcuM/J7EfHTOjwj+UYDNYR
+Qd4Uk5wKCAd4/Kgj9jgGJwK9VdjfnjiC6Li8OkDjnpi403iye0kLaobsYAjfyLRo
+L6iLLbMVIXM75CfLbCr15fXgvQyKW95S7AMTYv3OAT64iySKXtIpFzaHomoExHn2
+2jzENFdZELAGbAP/5cY8ImRnGW5HIddrQPCgdJp8c38Kbh27GTh2ugbRStZfCGv/
+V25gpGMrlZsv3QN9ueRzoUrQ43geM8sZr03ftrki/cWZHhT8ePmkGpQu3p1A1t3p
+96Wxog4F0b0TPOlejapYwLVD80vZvZ2MpIh+CFrAe7X4Z2tgeJBnoa08dGxbuuaK
+4+W9MU0phyLOp7pFERTh4F9eqRQGBztUdJkq08+rYpqrrHdqz4zrT+HzGRE7bgdb
+4YQdQLoTRmCZ7hm5UtPkfQBGVDgfImop4/iF8DnLkVOJHJv2d4MuhLxnLYlKB+RQ
+EV4EdjtwtGc6u691WonYg9HqtfxhHFzZCGJVMiC4EM3uQy2CU5dMCweZI4P2A7B7
+I9StUdQ7G3VHTvH0pQnhF+MWneL2rcaGN/NuO7x52oKa3F4lurh8IDp8U1ZRoyrO
+O+qgEYnJXk0Ns83QydiKONGCt3QJ0mEg9O0jjG8tzwgicCTdcnf9cZpkuR0uggUA
+EQEAAYkCNgQYAQoAIBYhBNQ267C4ge3CLMpoW76tWfr5RsMGBQJo8q/mAhsMAAoJ
+EL6tWfr5RsMGmEgP/3v4afBMUHnKcMjxcg3oB8HcNfRbEgEnpeXUPyMSeFd5rQdb
+mGAHHuv4kSKo3Zh82SDFY43aK2t0+nS2AN7rwJSezZ23jINyamEUQ4mPfjsueXOL
+iNeQvuhWxhJQNfxWY5MSSZQO9WZKhr6Lvw/v7/Xp6G601hJb9iFTpClSeWqj3fGP
+6gijGRXse3u7KU1cO9AEow0pN+SPbgNI0ppRQ85E3YNV5FB5PT8fRJg3vAG7/NVK
+cIi1qdDcZVOeaXbQg1EDJ9sU2fMwZxxrnre0ZzcNxFBVDhuRggzV5RrU8E1F/sNj
+UJ8NOTrWg8bkdmVdhcmvUMZu0W2i8off6tlV4iw+lBsOvWNs6e28k9kra0pd4SLa
+5Bl6yIDCFu6lL011YPySofTnJnHbZem0Q45pMsDynxkdUfG5SbomdQvxF0jdo1Px
+u7NIftw3Rao9OgxlODOunxe/riuL5H/ILzNxVUZZrsgwNzRD3uqUIgTp1UWEnE7j
+GPMSOG8zVaci3R8s8NL18QLlS6xlj2U2mshiYrkdhJCbz+JgoY3v2we6nidRCWDh
+Q/w7RmHrkif1UTQSlqE4NKGTZ+EtMvq2CuUEapeEsRQdnTv7xWGWjVI3x3XpR7Zz
+8mNau0Jf7iEDbgqGwBEsG7KqB9x46CU80xP5q3RgAx4QbwGE3RAAwWagDfWJ
+=1zW1
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+</center>
