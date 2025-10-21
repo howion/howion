@@ -34,8 +34,10 @@
 
 <br/>
 
+<!-- - Couple of new brave programming languages &mdash; hopefully second one will be released soon and be my magnum opus, -->
+
 - **I'm currently working on**
-  - Digitization of 19th Century Anatolia. Check it out [on X (3.5K Followers)](https://x.com/19thanatolia) and [anatolia19.metu.edu.tr](http://anatolia19.metu.edu.tr/),
+  - Digitization of 19th Century Anatolia. Check it out [on X (3.5K Followers](https://x.com/19thanatolia) and [anatolia19.metu.edu.tr](http://anatolia19.metu.edu.tr/),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age and [Principia Historica](https://github.com/principia-historica),
   - inventing new concepts in computation and logic,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while holding my tears,
@@ -124,8 +126,6 @@
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=ffffff&style=flat)](https://gitlab.com/wanduow/wireshark/-/blob/cd5539b0f76975474869984a9d2f0fce29d5c21e/image/wsicon.svg)
 [![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?logo=wolfram&logoColor=ffffff&style=flat)](http://company.wolfram.com/press-center/wolfram-corporate/)
 </details> -->
-
-<br>
 
 <center>
 <details>
