@@ -34,8 +34,6 @@
 
 <br/>
 
-<!-- - Couple of new brave programming languages &mdash; hopefully second one will be released soon and be my magnum opus, -->
-
 - **I'm currently working on**
   - Digitization of 19th Century Anatolia. Check it out [on X (3.5K Followers)](https://x.com/19thanatolia) and [anatolia19.metu.edu.tr](http://anatolia19.metu.edu.tr/),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age and [Principia Historica](https://github.com/principia-historica),
