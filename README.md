@@ -33,7 +33,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg) -->
 
 <br/><br/>
-<br/>
 
 <!-- - Couple of new brave programming languages &mdash; hopefully second one will be released soon and be my magnum opus, -->
 
