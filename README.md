@@ -32,7 +32,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg) -->
 
-<br/>
+<br/><br/>
 
 - **I'm currently working on**
   - Digitization of 19th Century Anatolia. Check it out [on X (3.5K Followers)](https://x.com/19thanatolia) and [anatolia19.metu.edu.tr](http://anatolia19.metu.edu.tr/),
@@ -125,7 +125,7 @@
 [![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?logo=wolfram&logoColor=ffffff&style=flat)](http://company.wolfram.com/press-center/wolfram-corporate/)
 </details> -->
 
-<br>
+<br/>
 
 <center>
 <details>
@@ -187,3 +187,4 @@ Q/w7RmHrkif1UTQSlqE4NKGTZ+EtMvq2CuUEapeEsRQdnTv7xWGWjVI3x3XpR7Zz
 
 </details>
 </center>
+
