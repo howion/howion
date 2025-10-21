@@ -32,6 +32,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi!+I'm+Mert.;An+Applied-Mathematican+to+Become;Front-End+Web+Developer;and+App+Developer;Nice+to+meet+you!)](https://git.io/typing-svg) -->
 
+<br/><br/>
 <br/>
 
 <!-- - Couple of new brave programming languages &mdash; hopefully second one will be released soon and be my magnum opus, -->
@@ -126,6 +127,8 @@
 [![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=ffffff&style=flat)](https://gitlab.com/wanduow/wireshark/-/blob/cd5539b0f76975474869984a9d2f0fce29d5c21e/image/wsicon.svg)
 [![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?logo=wolfram&logoColor=ffffff&style=flat)](http://company.wolfram.com/press-center/wolfram-corporate/)
 </details> -->
+
+<br/>
 
 <center>
 <details>
