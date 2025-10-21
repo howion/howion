@@ -34,22 +34,24 @@
 
 <br/>
 
-- **I'm currently working on:**
-  - Digitization of 19th Century Anatolia (See: <https://x.com/19thanatolia>),
-  - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age,
-  - [Principia Historica](https://github.com/principia-historica),
-  - two brave new programming languages &mdash; hopefully second one will be released soon and be my magnum opus,
+<!-- - Couple of new brave programming languages &mdash; hopefully second one will be released soon and be my magnum opus, -->
+
+- **I'm currently working on**
+  - Digitization of 19th Century Anatolia. Check it out [on X (3.5K Followers)](https://x.com/19thanatolia) and [anatolia19.metu.edu.tr](http://anatolia19.metu.edu.tr/),
+  - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age and [Principia Historica](https://github.com/principia-historica),
+  - inventing new concepts in computation and logic,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while holding my tears,
   - ~~an alternative to [LaTeX](https://www.latex-project.org/) &mdash; no its not a bad idea,~~ &mdash; Seems like [typst](https://github.com/typst/typst) has flawlessly beat me to it,
   - and some other stuff.
 
+<!-- - **I'm intereseted in**
+  - Reading and writing poems, creating AI generated covers for them (see `howion/notes`). -->
+
 - You can reach me via `mert.coskun@metu.edu.tr` and please do so if you are interested.
 
-## My Tech Stack
+<!-- ## My Tech Stack
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=cs,cpp,cloudflare,codepen,css,dotnet,express,figma,git,html,ai,js,jquery,latex,md,mysql,nodejs,php,prisma,py,react,sass,svg,ts,visualstudio,vscodem)](https://skillicons.dev) -->
-
-[![My Skills](https://skillicons.dev/icons?i=arch,astro,aws,babel,bash,bun,cs,css,docker,dotnet,electron,figma,git,github,go,html,js,latex,linux,nextjs,nodejs,npm,php,prisma,react,redis,rollupjs,sass,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,astro,aws,babel,bash,bun,cs,css,docker,dotnet,electron,figma,git,github,go,html,js,latex,linux,nextjs,nodejs,npm,php,prisma,react,redis,rollupjs,sass,ts,vscode)](https://skillicons.dev) -->
 
 <!--
 <div align="center">
@@ -125,9 +127,11 @@
 [![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?logo=wolfram&logoColor=ffffff&style=flat)](http://company.wolfram.com/press-center/wolfram-corporate/)
 </details> -->
 
+<br>
+
 <center>
 <details>
-<summary><b>PgP Public Key</b></summary>
+<summary><b>PGP Public Key</b></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -182,5 +186,6 @@ Q/w7RmHrkif1UTQSlqE4NKGTZ+EtMvq2CuUEapeEsRQdnTv7xWGWjVI3x3XpR7Zz
 =1zW1
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
 </details>
 </center>
