@@ -129,9 +129,10 @@
 
 <br/>
 
-<center>
+<div align="center">
 <details>
-<summary><b>PGP Public Key</b></summary>
+<summary><b>PGP KEY</b></summary>
+<br/>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -188,4 +189,14 @@ Q/w7RmHrkif1UTQSlqE4NKGTZ+EtMvq2CuUEapeEsRQdnTv7xWGWjVI3x3XpR7Zz
 ```
 
 </details>
-</center>
+</div>
+
+<br/>
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.howion.com/badge-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.howion.com/badge-dark.svg">
+      <img alt="Fallback image description" src="https://www.howion.com/badge-dark.svg" width="240">
+    </picture>
+</div>
