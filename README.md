@@ -37,7 +37,7 @@
 <!-- - Couple of new brave programming languages &mdash; hopefully second one will be released soon and be my magnum opus, -->
 
 - **I'm currently working on**
-  - Digitization of 19th Century Anatolia. Check it out [on X (4K Followers](https://x.com/19thanatolia) and [anatolia19.metu.edu.tr](http://anatolia19.metu.edu.tr/),
+  - Digitization of 19th Century Anatolia. Check it out [on X (~4K Followers)](https://x.com/19thanatolia) and [anatolia19.metu.edu.tr](http://anatolia19.metu.edu.tr/),
   - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) for the modern age and [Principia Historica](https://github.com/principia-historica),
   - inventing new concepts in computation and logic,
   - fighting against [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) &mdash; while holding my tears,
@@ -202,5 +202,6 @@ Q/w7RmHrkif1UTQSlqE4NKGTZ+EtMvq2CuUEapeEsRQdnTv7xWGWjVI3x3XpR7Zz
 </picture>
 </a>
 </div>
+
 
 
