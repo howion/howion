@@ -193,6 +193,7 @@ Q/w7RmHrkif1UTQSlqE4NKGTZ+EtMvq2CuUEapeEsRQdnTv7xWGWjVI3x3XpR7Zz
 
 <br/>
 
+<!--
 <div align="center">
 <a href="https://www.howion.com/" target="_blank">
 <picture>
@@ -202,6 +203,4 @@ Q/w7RmHrkif1UTQSlqE4NKGTZ+EtMvq2CuUEapeEsRQdnTv7xWGWjVI3x3XpR7Zz
 </picture>
 </a>
 </div>
-
-
-
+-->
