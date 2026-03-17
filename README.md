@@ -1,3 +1,5 @@
+<br/>
+
 # Hi. I'm M̴̧̡̡̢͎̬͖̬̠̭̱̝̩̪̝̠͎͈̪̰͕͓̼̻͎̮̜̫̬͍̱̭̠̟̖͉͈̺͙͉͒́͂̾̅̚̚͜͜͜Ę̷̡̡̧̨͎͕̟̪̰͍̬̮̥̝̖̯͕̳̳̜̭͖̯͙̜̰̤̼̠̼̪̝̐̔̍̋͜͝R̶̘̹̠̻̺̟̞̦͗̓̓̐̄̀͊̏̔͂͑̉͆͘̕͝T̴̢̨̛̩̮̖̺̱͙̳̪̠̼͐͌̇̀̓́͂̎̔͗͂̄̈́̆́̏̉̀͑͗͐̈́̋̇͌̿̅͒̓͒͒̂͋͘͝͝ — <samp>howion<sup>v2.0</sup>.</samp> <img align="left" src="https://raw.githubusercontent.com/howion/howion/master/public/satanic-ram-horn.png" width="160px" />
 
 <div align="left">
@@ -131,7 +133,7 @@
 
 <div align="center">
 <details>
-<summary><b>PGP KEY</b></summary>
+<summary><b>PGP</b></summary>
 <br/>
 
 ```
@@ -187,12 +189,8 @@ Q/w7RmHrkif1UTQSlqE4NKGTZ+EtMvq2CuUEapeEsRQdnTv7xWGWjVI3x3XpR7Zz
 =1zW1
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
 </details>
 </div>
-
-<br/>
-
 <!--
 <div align="center">
 <a href="https://www.howion.com/" target="_blank">
