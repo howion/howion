@@ -7,7 +7,8 @@
 ![Repos](https://badges.pufler.dev/repos/howion)
 -->
 
-![Visitors](https://komarev.com/ghpvc/?username=howion)
+[![Profile Views](https://komarev.com/ghpvc/?username=howion)](https://github.com/howion)
+[![NPM Downloads](https://img.shields.io/npm-stat/dy/howion?style=flat&logo=npm)](https://npm-stat.com/charts.html?author=howion)
 [![Mail](https://img.shields.io/badge/-mert.coskun@metu.edu.tr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mert.coskun@metu.edu.tr "Connect via Email")
 [![LinkedIn](https://img.shields.io/badge/-omer--mert--coskun-0072ae?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-mert-coskun/ "Connect on LinkedIn")
 [![Behance](https://img.shields.io/badge/-howion-0057ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/howion "My Béhance")
@@ -20,11 +21,10 @@
 [![Instagram](https://img.shields.io/badge/-omermertcoskun-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/omermertcoskun/ "Follow me on Instagram")
 [![Telegram](https://img.shields.io/badge/-@howion-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/howion "Contact me on Telegram")
 [![IMDb](https://img.shields.io/badge/-@howion-F5C518?style=flat&logo=imdb&logoColor=white)](https://www.imdb.com/user/ur106540372 "Me on IMDb")
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8324--2325-blue?style=flat&logoColor=white)](https://orcid.org/0000-0002-8324-2325)
+<!--[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8324--2325-blue?style=flat&logoColor=white)](https://orcid.org/0000-0002-8324-2325)-->
 <!-- [![Keybase PGP](https://img.shields.io/badge/Keybase&nbsp;PGP%20-F6735A378EF369F6-critical?style=flat&logo=keybase&logoColor=white)](https://keybase.io/howion) -->
-<!-- ![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logoColor=white) -->
 <!-- ![OS](https://img.shields.io/badge/OS-Linux%2FTails-informational?style=flat&logoColor=white) -->
-<!-- [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) -->
+
 
 </div>
 
