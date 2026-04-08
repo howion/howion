@@ -7,7 +7,7 @@
 ![Repos](https://badges.pufler.dev/repos/howion)
 -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=howion)](https://github.com/howion)
+[![Profile Views](https://www.howion.com/api/profile-views.svg)](https://github.com/howion)
 [![NPM Downloads](https://img.shields.io/npm-stat/dy/howion?style=flat&logo=npm)](https://npm-stat.com/charts.html?author=howion)
 [![Mail](https://img.shields.io/badge/-mert.coskun@metu.edu.tr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mert.coskun@metu.edu.tr "Connect via Email")
 [![LinkedIn](https://img.shields.io/badge/-omer--mert--coskun-0072ae?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-mert-coskun/ "Connect on LinkedIn")
